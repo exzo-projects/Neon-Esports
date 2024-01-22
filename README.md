@@ -1,4 +1,4 @@
-# neon
+# Neon Esports
  Computer club Website
 
- Preview: https://exzo-projects.github.io/neon
+ Preview: https://exzo-projects.github.io/Neon-Esports
